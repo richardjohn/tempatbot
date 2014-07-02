@@ -1,4 +1,7 @@
-tempatbot
-=========
+Tempa T Bot
+===========
 
-Node.js IRC bot that emulates grime MC Tempa T
+Channel operators have long had to write their own bots that emulate Tempa T.
+No longer! This is a basic Tempa T bot written in node.js
+
+Requires the irc module (npm install irc)
