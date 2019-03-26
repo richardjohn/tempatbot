@@ -30,6 +30,7 @@ TempaTBot.randomPhrase = function() {
         "I said 'GET OUT THE CAR!'",
         "I said 'THIS AIN'T A PAR!'",
         "Sleeewwwww demmmm",
+        "Won't get none of your CD's back",
         "'09!"
     ];
     return phrases[Math.floor(Math.random() * phrases.length)];
